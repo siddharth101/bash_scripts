@@ -11,6 +11,6 @@ The file names are of the format
 ```bash find_file_gpstimes.sh L1/ 1248739218 1248912018```
 will find 
 lowfblip_fastscatmodel_L1_1248739218_1248825618.csv
-lowfblip_fastscatmodel_L1_1248825618_1248912018.csv
+lowfblip_fastscatmodel_L1_1248825618_1248912018.csv and
 lowfblip_fastscatmodel_L1_1248912018_1248998418.csv
 ***
