@@ -22,6 +22,12 @@ echo "If the cost price is $costprice and selling price is $sellingprice then fo
 
 echo "*********************************"
 
+val1=$(( 10*4  + 40 ))
+val2=$(( 8*10 - 30 ))
+
+echo "First value is $val1 and second value is $val2"
+
+echo "*********************************"
 n1=2
 n2=9
 
