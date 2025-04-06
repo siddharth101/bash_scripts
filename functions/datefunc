@@ -1,0 +1,21 @@
+#!/bin/bash
+
+print_date () {
+	echo Today the date is 
+	date +%F
+}
+
+print_date
+
+list_content () {
+	direc="pwd"
+	y=$(eval "$direc")
+	echo "The current directory is $y"
+	x="ls"
+	z=$(eval "$x")
+	echo "The contents of this directory are $z"
+	echo "We can also print the contents like this"
+	ls
+}
+ 
+list_content
